@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminulhchy
-- 👀 I’m interested in Travelling
 - 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Digital Nomad
 - 📫 How to reach me aminulhchy@gmail.com
 
 <!---
