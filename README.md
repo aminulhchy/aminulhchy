@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aminulhchy
-- 🌱 I’m currently learning JavaScript
-- 👀 I’m interested in Travelling
-- 📫 How to reach me aminulhchy@gmail.com
+- 🌱 A UI/UX Designer & Frontend Developer
+- 📫 How to reach me: aminulhchy@gmail.com
+- ⛹️ Checkout my design exploration on Dribbble: https://dribbble.com/aminulhchy
 
 <!---
 aminulhchy/aminulhchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
